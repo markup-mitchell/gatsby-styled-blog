@@ -1,6 +1,7 @@
 ---
 path: '/first-post'
 title: 'Test Title'
+status: 'live'
 ---
 
 # Hello!
