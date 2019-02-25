@@ -1,6 +1,6 @@
 ---
 path: '/first-post'
-title: 'New Gatsby Blog'
+title: 'Test Title'
 ---
 
 # Hello!
