@@ -5,9 +5,12 @@ import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
 
+import Card from "../components/card";
+
 const IndexPage = ({ data }) => (
   <Layout>
     <SEO title="Home" keywords={[`gatsby`, `application`, `react`]} />
+    <Card>this is content I typed in myself. It's my first styled component on this project.</Card>
     <h1>Index of Posts</h1>
     <p>this is supposed to be an index of posts!</p>
     <ul>
