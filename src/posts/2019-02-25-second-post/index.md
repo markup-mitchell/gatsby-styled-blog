@@ -1,7 +1,8 @@
 ---
 path: '/second-post'
-title: 'Test Title 2'
-status: 'draft'
+title: 'Second Title'
+published: true
+date: '2019-02-22'
 ---
 
 # Hello!

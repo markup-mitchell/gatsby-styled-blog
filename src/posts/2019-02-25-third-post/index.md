@@ -1,7 +1,8 @@
 ---
 path: '/third-post'
-title: 'Test Title 3'
-status: 'live'
+title: 'Third Title'
+published: true
+date: '2019-02-20'
 ---
 
 # Hello!

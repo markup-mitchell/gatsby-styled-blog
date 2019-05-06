@@ -14,7 +14,8 @@ exports.createPages = ({boundActionCreators, graphql}) => {
           frontmatter {
             path
             title
-            status
+            published
+            date
           }
         }
       }

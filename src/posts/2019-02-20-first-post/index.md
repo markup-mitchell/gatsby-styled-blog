@@ -1,7 +1,8 @@
 ---
 path: '/first-post'
-title: 'Test Title'
-status: 'live'
+title: 'First Title'
+published: true
+date: '2019-02-25'
 ---
 
 # Hello!
