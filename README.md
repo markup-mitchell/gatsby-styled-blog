@@ -1,3 +1,8 @@
+This is the default gatsby starter but with the a few added deps (fs) and some simple graphql queries added to allow the most basic blog functionality. I followed the level-up tuts videos to get this going.
+
+Also included styled components. 
+
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.org">
